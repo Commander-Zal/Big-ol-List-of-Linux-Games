@@ -1,157 +1,216 @@
- 
-#Awesome & Free Linux Games: 
+Post your own recommendations, and I'll pop em in! + Check out [GoL's List!](https://www.gamingonlinux.com/free-games/)
+
+#Free Linux Games: 
 
 **Strategy / Tactics:**
 
 * [FreeCiv](http://www.freeciv.org/) - Free clone of Civilization
 
-* [FreeCol](http://www.freecol.org/news/freecol-0.11.6-released.html) - Free clone of Colonization, based in colonial America
+* [FreeCol](http://www.freecol.org/news/freecol-0.11.6-released.html) - Clone of Colonization
 
-* [FreeOrion](http://www.freeorion.org/index.php/Main_Page) - Free Clone of the classic Master of Orion strategy game
+* [FreeOrion](http://www.freeorion.org/index.php/Main_Page) - Clone of Master of Orion
 
-* [OpenRA](http://www.openra.net/) - An open-source implementation of Command & Conquer: Red Alert, Tiberian Sun, and Dune 2000, all in one place!
+* [OpenRA](http://www.openra.net/) - Open-Source implementation of C&C: Red Alert, Tiberian Sun, and Dune 2000
 
-* [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) - Turn based strategy game, similar to the Advance Wars games on the GBA.
+* [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) - Turn based strategy, similar to Advance Wars on the GBA.
 
-* [The Battle For Wesnoth](https://www.wesnoth.org/) - Free open-source turn-based fantasy RPG/Strategy hybrid
+* [The Battle For Wesnoth](https://www.wesnoth.org/) - Open-source turn-based fantasy RPG/Strategy hybrid
 
-* [Hedgewars](http://www.hedgewars.org/) - a free clone of the game Worms
+* [Hedgewars](http://www.hedgewars.org/) - Clone of the game Worms
 
-* [UFO: Alien Invasion](https://ufoai.org/wiki/News) - A free turn-based tactical combat game, inspired by the X-Com series.
+* [UFO: Alien Invasion](https://ufoai.org/wiki/News) - Turn-based tactical combat game inspired by the X-Com series
 
-* [Argentum Age](http://www.argentumage.com/) - A free and open-source fantasy card game
+* [Argentum Age](http://www.argentumage.com/) - Open-source fantasy card game
 
-* [UFO2000](http://ufo2000.sourceforge.net/) - Another X-com type of game
+* [UFO2000](http://ufo2000.sourceforge.net/) - Another X-Com inspired game
 
 * [Wyrmsun](https://andrettin.github.io/) - An interesting fantasy RTS
 
-* [0 A.D.](https://play0ad.com/) - A truly impressive fully 3D RTS. **(Not suitable for low-end systems)**
+* [0 A.D.](https://play0ad.com/) - Incredible 3D RTS, professional grade **(Not suitable for low-end systems)**
 
-* [Spring RTS](https://springrts.com/) - An RTS game engine that has a few complete games made from it, like Zero-K
+* [Spring RTS](https://springrts.com/) - RTS game engine that has a few complete games made from it, like Zero-K
 
-* [Warzone 2100](https://wz2100.net/) - A 3D RTS that offers campaign, multi-player, and single-player skirmish modes.
+* [Warzone 2100](https://wz2100.net/) - 3D RTS that offers campaign, multi-player, and single-player skirmish modes.
 
-* [Megaglest](https://megaglest.org/) - RTS game where you control the armies of one of seven different factions
+* [Megaglest](https://megaglest.org/) - RTS, control armies of seven different factions
+
+* [Thrive](http://revolutionarygamesstudio.com/releases/) - Centered around evolution
 
 **City Builder/Tycoon:**
 
-* [OpenTTD](https://www.openttd.org/en/) - open-source clone based upon Transport Tycoon Deluxe
+* [OpenTTD](https://www.openttd.org/en/) - Clone of Transport Tycoon Deluxe
 
-* [Unknown Horizons](http://unknown-horizons.org/) - Village builder/manager inspired by the Anno series
+* [Unknown Horizons](http://unknown-horizons.org/) - Village builder inspired by the Anno series
 
-* [Scorched 3D](http://www.scorched3d.co.uk/) - Simple turn-based artillery game and also a real-time strategy game in which players can counter each others’ weapons with other creative accessories, shields and tactics.
+* [Scorched 3D](http://www.scorched3d.co.uk/) - Turn-based or real-time artillery strategy game
 
-* [Simutrans](https://www.simutrans.com/en/) -Open-source transportation simulator. Your goal is to establish a successful transport company. 
+* [Simutrans](https://www.simutrans.com/en/) - Transportation simulator clone.
+
+* [Widelands](https://wl.widelands.org/) - Settlers clone
 
 **Adventure/RPG:**
 
-* [Heroine's Quest](http://crystalshard.net/?g=16) - Fantastic free Point'n'Click RPG inspired by the Quest for Glory series from Sierra
+* [Heroine's Quest](http://crystalshard.net/?g=16) - Fantastic Point'n'Click RPG inspired by the Quest for Glory series from Sierra
 
 * [Beneath a Steel Sky](https://www.gog.com/game/beneath_a_steel_sky) - Classic adventure game with excellent artwork and voice talent. Should be available in the Ubuntu repos
 
-* [ScummVM's Freeware Games](https://www.scummvm.org/games) - Some fantastic point'n'click games here, my favorite probably being Dreamweb
+* [ScummVM's Freeware Games](https://www.scummvm.org/games) - Some fantastic point'n'click games here, my favourite being Dreamweb
 
 * [Solarus Games](http://www.solarus-games.org/games/solarus-team/) - Solarus is a game engine for making Zelda-like games, but there are many completed games available on their website, and also [community made games](http://www.solarus-games.org/games/community/)
 
-* [Flare](http://flarerpg.org/) - A surprisngly indepth and polished isometric RPG
+* [Flare](http://flarerpg.org/) - A surprisingly in-depth and polished isometric RPG
 
 * [Eldevin](https://www.eldevin.com/) - F2P Runescape clone with a distinct charm
 
 **Roguelikes:**
 
-* [Dwarf Fortress](http://www.bay12games.com/dwarves/) - The most famous Rogue-like/City-builder around. Extremely daunting to get into, but very rewarding if you do **(Not suitable for low-end systems)**
+* [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Famous RL/City-builder. Extremely daunting to get into, but very rewarding **(Needs Good CPU)**
 
-* [Roguebox Adventures](https://rogueboxadventures.tuxfamily.org/) - Neat little graphical rogue-like with a focus on survival and crafting. [Source code here](https://notabug.org/themightyglider/RogueBoxAdventuresMirror) for packagers
+* [Roguebox Adventures](https://rogueboxadventures.tuxfamily.org/) - Graphical RL with a focus on survival and crafting. [(Source code)](https://notabug.org/themightyglider/RogueBoxAdventuresMirror)
 
-* [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Unique zombie survival rogue-like, very in-depth.
+* [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Unique zombie survival RL, very thrilling to play.
 
-* [UnReal World](http://www.unrealworld.fi/) - Crazy in-depth survival roguelike based in iron age Finland
+* [UnReal World](http://www.unrealworld.fi/) - Crazy in-depth survival RL based in iron age Finland
 
-* [Dungeon Crawl Soup](https://crawl.develz.org/) - A roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot.
+* [Dungeon Crawl Soup](https://crawl.develz.org/) - RL to find the mystifyingly fabulous Orb of Zot.
 
 * [NetHack](https://www.nethack.org/) - Does this need an introduction?
 
-* [Brogue](https://sites.google.com/site/broguegame/home) - Another in-depth roguelike with its own appeal
+* [Brogue](https://sites.google.com/site/broguegame/home) - RL for Visually Impaired?
 
-* [Tales of Maj'Eyal: Age of Ascendancy](https://te4.org/) - Ultra polished graphical roguelike with the option to save your game
+* [Tales of Maj'Eyal](https://te4.org/) - Ultra polished graphical RL
 
-* [ADOM (Ancient Domains of Mystery)](https://www.adom.de/home/index.html) - Another great roguelike, with a huge world and many ways to play
+* [ASCII Sector](http://www.asciisector.net/) - RL version of WC: Privateer
+
+* [ADOM (Ancient Domains of Mystery)](https://www.adom.de/home/index.html) - Another great RL with a huge world
+
+* [DoomRL](https://drl.chaosforge.org/) - DOOM, but RL!
+
+* [Sil](http://www.amirrorclear.net/flowers/game/sil/) & [Angband](http://rephial.org/) - Tolkien RL's
 
 **Space Sim/Trading/RPG:**
 
-* [Ur-Quan Masters](http://sc2.sourceforge.net/) - Updated version of the classic game Star Control II. Be sure to download the optional Voice Pack! ([Alternative HD version available here](https://sourceforge.net/projects/urquanmastershd/))
+* [Ur-Quan Masters](http://sc2.sourceforge.net/) - Updated version of Star Control II. Be sure to get the Voice Pack! ([Alternative HD version available here](https://sourceforge.net/projects/urquanmastershd/))
 
 * [Endless Sky](https://endless-sky.github.io/) - 2D space trading and combat game similar to the classic Escape Velocity series
 
-* [Oolite](http://www.oolite.org/) - Well done Elite remake, with plentiful mod support.
+* [Oolite](http://www.oolite.org/) - Elite remake, with plentiful mod support
 
-* [Pioneer](http://pioneerspacesim.net/#&panel1-1) - a remake to the sequel to Elite, Frontier.
+* [Pioneer](http://pioneerspacesim.net/#&panel1-1) - Remake of the sequel to Elite, Frontier
 
-* [Vega Strike](http://vegastrike.sourceforge.net/) - Open Source 3D Action-Space-Sim that lets you trade, fight, and explore in a vast universe.
+* [Vega Strike](http://vegastrike.sourceforge.net/) - 3D Action-Space-Sim
 
-* [Naev](https://store.steampowered.com/app/598530/Naev/) - open-source game about space exploration, trade and combat
+* [Naev](https://store.steampowered.com/app/598530/Naev/) - Centered on space exploration, trade and combat
 
 
 **Puzzle:**
 
-* [FloboPuyo](http://www.ios-software.com/flobopuyo-en) - Open-source clone of the PuyoPuyo games. [Source-code](http://www.fovea.cc/files/flobopuyo) for packagers
+* [FloboPuyo](http://www.ios-software.com/flobopuyo-en) - Clone of PuyoPuyo [(Source-code)](http://www.fovea.cc/files/flobopuyo)
 
-* [Frozen Bubble](http://www.frozen-bubble.org/home/) - Great open-source clone of the Bubble Bobble games. Should be available in most distro repos
+* [Frozen Bubble](http://www.frozen-bubble.org/home/) - Clone of Puzzle Bobble.
 
-* [Duck Marines](http://tangramgames.dk/games/duckmarines/) - An open-source clone of the game Chu Chu Rocket. [Source code here](https://github.com/SimonLarsen/duckmarines) for distro packagers.
+* [Duck Marines](http://tangramgames.dk/games/duckmarines/) - Clone of Chu Chu Rocket [(Source code)](https://github.com/SimonLarsen/duckmarines)
 
-* [Pingus](https://pingus.seul.org/) - A well done Lemmings clone.
+* [Pingus](https://pingus.seul.org/) - Lemmings clone.
 
-* [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/) - A pack of 39 "old school" games like Sudoku, Same Game, Flood, etc.
+* [Portable Puzzle Collection](https://www.chiark.greenend.org.uk/%7Esgtatham/puzzles/) - 39 old school puzzle games
+
+* [Blockout2](http://www.blockout.net/blockout2/) - 3D Tetris
+
+* [Coregrounds](https://store.steampowered.com/app/649770/Coregrounds/) - Online Competitive Tower-Defense
 
 **Arcade/Casual:**
 
-* [SSVOpenHexagon](http://vittorioromeo.info/projects.html) - Open-source clone of the Super Hexagon game. [Source code](https://github.com/SuperV1234/SSVOpenHexagon) for packagers
+* [SSVOpenHexagon](http://vittorioromeo.info/projects.html) - Clone of Super Hexagon [(Source code)](https://github.com/SuperV1234/SSVOpenHexagon)
 
-* [LBreakout2](http://lgames.sourceforge.net/LBreakout2/) - One of the best open-source breakout clones around. Should be able to be found in some distro repos
+* [LBreakout2](http://lgames.sourceforge.net/LBreakout2/) - Breakout clone
 
-* [Witch Blast](https://dev.solus-project.com/T1335) - An open-source clone of the Binding of Isaac games. [Source code here](https://github.com/Cirrus-Minor/witchblast) for distro packgers.
+* [Witch Blast](https://dev.solus-project.com/T1335) - Clone of Binding of Isaac. [(Source code)](https://github.com/Cirrus-Minor/witchblast)
 
-* [TeeWorlds](https://store.steampowered.com/app/380840/) - A fun multiplayer 2D shooter, should be available in most repos, as well as Steam.
+* [TeeWorlds](https://store.steampowered.com/app/380840/) - Online 2D shooter
 
-* [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) - The famous Tyrian 2000 reimplemented for other systems
+* [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) - Famous Shmup
 
-* [Kobo Deluxe](http://olofson.net/kobodl/) - Seems to be an 8-way scrolling shooter
+* [Kobo Deluxe](http://olofson.net/kobodl/) - 8-way shooter
+
+* [Chromium-BSU](http://chromium-bsu.sourceforge.net/) - Top-down arcade Shmup
+
+* [Altitude](https://store.steampowered.com/app/41300/Altitude/) - 2D Online plane combat
+
+* [Liero](http://www.liero.be/) - Kind of like a real-time version of Worms
+
+* [Frets on Fire](http://fretsonfire.sourceforge.net/) - Guitar Hero clone
 
 **Side-Scroller:**
 
-* [Mr. Rescue](http://tangramgames.dk/games/mrrescue/) - A small game about a fireman rescuing people from a burning building, and putting out fires. [Source code here](https://github.com/SimonLarsen/mrrescue) for people who want to package it for their distro
+* [Mr. Rescue](http://tangramgames.dk/games/mrrescue/) - Play as a fireman rescuing people. [(Source code)](https://github.com/SimonLarsen/mrrescue)
 
-* [Sienna](http://tangramgames.dk/games/sienna/) - Fun little runner/platformer. Source-code [can be found here](https://github.com/SimonLarsen/sienna) for those who want to package it for their distro. :)
+* [Sienna](http://tangramgames.dk/games/sienna/) - Fun little runner/platformer [(Source code)](https://github.com/SimonLarsen/sienna) 
 
-* [Super Tux](http://www.supertux.org/) - A free and open-source Mario clone, and [currently in need of help if it's to stay alive](https://www.reddit.com/r/linux_gaming/comments/8tmc1x/classic_open_source_game_super_tux_seeking_help/)
+* [Super Tux](http://www.supertux.org/) - Mario clone, and [currently in need of help](https://www.reddit.com/r/linux_gaming/comments/8tmc1x/classic_open_source_game_super_tux_seeking_help/)
 
-* [Hurrican](https://www.winterworks.de/project/hurrican/) - side-scrolling shooter inspired by the classic game Turrican. Unfortunately it's a bit forgotten nowadays, and may not be included in many repos. So [you may have to compile it from here](https://sourceforge.net/p/hurrican/code/HEAD/tree/trunk/)
+* [Secret Chronicles](https://secretchronicles.org/en/) - Mario 3 Clone
 
-* [Frogatto](https://frogatto.com/) - Very impressive platformer with great music and graphics. Should be available in the Ubuntu repos for free.
+* [Hurrican](https://www.winterworks.de/project/hurrican/) - Inspired by Turrican. Mostly forgotten now, so [you may have to compile it from here](https://sourceforge.net/p/hurrican/code/HEAD/tree/trunk/)
+
+* [Frogatto](https://frogatto.com/) - Platformer with great music and graphics. Available in the Ubuntu repo
+
+* [Commander Keen 4](https://davidgow.net/keen/omnispeak.html) - Classic DOS platformer
+
+* [OpenClonk](https://www.openclonk.org/) - Online 2D Mining game
 
 **Racing:**
 
-* [SuperTuxCart](https://supertuxkart.net/Main_Page) - Excellent open-source clone of the Mario Cart games **(Not suitable for low-end systems)**
+* [SuperTuxCart](https://supertuxkart.net/Main_Page) - Open-source clone of the Mario Cart games
 
 * [Yorg](http://www.ya2.it/pages/download.html#download) - A top-down racer in the Micro Machine's style.
 
+* [Speed Dreams](http://speed-dreams.org/) - Realistic racing sim
+
 **First Person Shooter/Stealth:**
 
-* [Xonotic](http://www.xonotic.org/) - Arena-style online shooter, inspired by Quake
+* [Cube 2](http://sauerbraten.org/) - Quake-like Arena online FPS with multiple game modes
 
-* [Dystopia](https://store.steampowered.com/app/17580/Dystopia/) - A cyberpunk online FPS, which a wicked cool atmosphere and unique gameplay, such as jacking into cyberspace to deactivate turrets, unlock doors, etc. Not many people play it nowadays, but it's good fun!
+* [Assault Cube](https://assault.cubers.net/) - Counter-Strike-like in the Cube engine
 
-* [Urban Terror](https://www.urbanterror.info/home/) - Fast pased online FPS reminiscent of Counter-strike
+* [Xonotic](http://www.xonotic.org/) - Quake-like Arena online FPS
 
-* [OpenArena](http://openarena.ws/smfnews.php) - Online arena shooter using the id tech engine
+* [Warsow](https://warsow.net/) - cartoonish online FPS
 
-* [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) - class-based online shooter **(Not suitable for low-end systems)**
+* [FreeDoom](https://freedoom.github.io/download.html) - Best used with Chocolate Doom
 
-* [The Dark Mod](http://www.thedarkmod.com/) - Fan-made spin-off the the fantastic Thief series, based off the Doom 3 engine. **(Not suitable for low-end systems)**
+* [Dystopia](https://store.steampowered.com/app/17580/Dystopia/) - A cyberpunk online FPS
+
+* [Urban Terror](https://www.urbanterror.info/home/) - Fast paced online FPS reminiscent of Counter-Strike
+
+* [OpenArena](http://openarena.ws/smfnews.php) - Online arena FPS using the id tech engine
+
+* [Fistful of Frags](https://store.steampowered.com/app/265630/Fistful_of_Frags/) - Online Western FPS
+
+* [Ravenfield](https://steelraven7.itch.io/ravenfield) - Singleplayer Battlefield type game
+
+* [Termulous](http://www.tremulous.net/) - RTS/FPS Hybrid with aliens!
+
+* [Alien Arena](http://red.planetarena.org/) - Retro Sci-Fi Online FPS
+
+* [Red Eclipse](https://www.redeclipse.net/) - Online FPS with parkour
+
+* [ET Legacy](https://www.etlegacy.com/) - Wolfenstein: Enemey Territory for modern systems
+
+* [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/) - class-based online FPS **(Not suitable for low-end systems)**
+
+* [The Dark Mod](http://www.thedarkmod.com/) - Fan-made spin-off the the fantastic Thief series **(Not suitable for low-end systems)**
 
 **Minecraft Clones:**
 
-* [Minetest](https://www.minetest.net/) - Free Minecraft clone. Requires mods to be on-par with the default Minecraft experience. 
+* [Minetest](https://www.minetest.net/) - Uses C++, Requires mods to be fun
 
-* [TrueCraft](https://github.com/SirCmpwn/TrueCraft) - Open-source clean-room implementation of Minecraft 1.7.3
+* [TrueCraft](https://github.com/SirCmpwn/TrueCraft) - Clean-room implementation of Minecraft 1.7.3
+
+* [Voxelands](https://www.voxelands.com/) - standard clone?
+
+* [Terasology](https://terasology.org/) - Fancy lookin' Minecraft
+
+**Vehicle Combat:**
+
+* [Warthunder](https://warthunder.com/en) - WWII Flight/Dogfighter/Tanker Sim
